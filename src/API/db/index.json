@@ -1,0 +1,69 @@
+{
+  "films": [
+    {
+      "img": "https://preview.colorlib.com/theme/abcbook/assets/img/gallery/best_selling8.jpg.webp",
+      "name": "red planet",
+      "author": "author",
+      "price": 50,
+      "review": 120,
+      "genre": "History",
+      "id": "a299"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/abcbook/assets/img/gallery/best_selling7.jpg.webp",
+      "name": "dark space",
+      "author": "author",
+      "price": 50,
+      "review": 120,
+      "genre": "Horror"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/abcbook/assets/img/gallery/best_selling6.jpg.webp",
+      "name": "independent",
+      "author": "author",
+      "price": 50,
+      "review": 120,
+      "genre": "Thriller"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/abcbook/assets/img/gallery/best_selling5.jpg.webp",
+      "name": "sin eater",
+      "author": "author",
+      "price": 50,
+      "review": 120,
+      "genre": "History"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/abcbook/assets/img/gallery/best_selling4.jpg.webp",
+      "name": "dorothea",
+      "author": "author",
+      "price": 50,
+      "review": 120,
+      "genre": "Thriller"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/abcbook/assets/img/gallery/best_selling3.jpg.webp",
+      "name": "evanes",
+      "author": "author",
+      "price": 50,
+      "review": 120,
+      "genre": "History"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/abcbook/assets/img/gallery/best_selling2.jpg.webp",
+      "name": "3moon",
+      "author": "author",
+      "price": 50,
+      "review": 120,
+      "genre": "Science Fiction"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/abcbook/assets/img/gallery/best_selling1.jpg.webp",
+      "name": "3moon",
+      "author": "author",
+      "price": 50,
+      "review": 120,
+      "genre": "History"
+    }
+  ]
+}
