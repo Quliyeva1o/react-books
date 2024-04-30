@@ -21,4 +21,6 @@ function App() {
   )
 }
 
+//filmlerin search'u navbardaki inputdadir
+
 export default App
